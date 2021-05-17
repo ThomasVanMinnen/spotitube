@@ -1,0 +1,15 @@
+D:\JAVA_PROJECTS\Spotitube\src\test\java\nl\thomasvanminnen\rest\resources\PlaylistResourceTest.java
+D:\JAVA_PROJECTS\Spotitube\src\test\java\nl\thomasvanminnen\rest\mappers\PersistenceExceptionMapperTest.java
+D:\JAVA_PROJECTS\Spotitube\src\test\java\nl\thomasvanminnen\service\TokenGeneratorImplTest.java
+D:\JAVA_PROJECTS\Spotitube\src\test\java\nl\thomasvanminnen\service\PlaylistServiceImplTest.java
+D:\JAVA_PROJECTS\Spotitube\src\test\java\nl\thomasvanminnen\rest\CorsFilterTest.java
+D:\JAVA_PROJECTS\Spotitube\src\test\java\nl\thomasvanminnen\service\TrackServiceImplTest.java
+D:\JAVA_PROJECTS\Spotitube\src\test\java\nl\thomasvanminnen\service\CreateTokenDTOImplTest.java
+D:\JAVA_PROJECTS\Spotitube\src\test\java\nl\thomasvanminnen\rest\resources\TrackResourceTest.java
+D:\JAVA_PROJECTS\Spotitube\src\test\java\nl\thomasvanminnen\rest\mappers\IncorrectUserDetailsExceptionMapperTest.java
+D:\JAVA_PROJECTS\Spotitube\src\test\java\nl\thomasvanminnen\rest\mappers\MissingParameterExceptionMapperTest.java
+D:\JAVA_PROJECTS\Spotitube\src\test\java\nl\thomasvanminnen\service\TokenServiceImplTest.java
+D:\JAVA_PROJECTS\Spotitube\src\test\java\nl\thomasvanminnen\rest\resources\LoginResourceTest.java
+D:\JAVA_PROJECTS\Spotitube\src\test\java\nl\thomasvanminnen\service\LoginServiceImplTest.java
+D:\JAVA_PROJECTS\Spotitube\src\test\java\nl\thomasvanminnen\persistence\UserDAOImplTest.java
+D:\JAVA_PROJECTS\Spotitube\src\test\java\nl\thomasvanminnen\service\AuthenticationServiceImplTest.java

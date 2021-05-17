@@ -1,0 +1,15 @@
+nl\thomasvanminnen\rest\mappers\MissingParameterExceptionMapperTest.class
+nl\thomasvanminnen\persistence\UserDAOImplTest.class
+nl\thomasvanminnen\service\TokenServiceImplTest.class
+nl\thomasvanminnen\service\TrackServiceImplTest.class
+nl\thomasvanminnen\service\PlaylistServiceImplTest.class
+nl\thomasvanminnen\rest\resources\LoginResourceTest.class
+nl\thomasvanminnen\rest\mappers\IncorrectUserDetailsExceptionMapperTest.class
+nl\thomasvanminnen\rest\resources\PlaylistResourceTest.class
+nl\thomasvanminnen\service\CreateTokenDTOImplTest.class
+nl\thomasvanminnen\rest\resources\TrackResourceTest.class
+nl\thomasvanminnen\service\AuthenticationServiceImplTest.class
+nl\thomasvanminnen\service\LoginServiceImplTest.class
+nl\thomasvanminnen\rest\mappers\PersistenceExceptionMapperTest.class
+nl\thomasvanminnen\rest\CorsFilterTest.class
+nl\thomasvanminnen\service\TokenGeneratorImplTest.class
